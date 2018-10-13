@@ -16,10 +16,13 @@
 -->
 <resources>
   <!-- This is the name of the TvProvider application. -->
+  <string name="app_label">Storfa Teledu</string>
   <!-- Title of an application permission, listed so the user can choose
         whether they want to allow the application to do this. -->
+  <string name="permlab_readTvListings">darllen pob amserlen teledu</string>
   <!-- Description of an application permission, listed so the user can choose
         whether they want to allow the application to do this. -->
+  <string name="permdesc_readTvListings">darllen pob amserlen teledu sydd ar gael ar dy ddyfais</string>
   <!-- Title of an application permission, listed so the user can choose
         whether they want to allow the application to do this.
         @deprecated -->
